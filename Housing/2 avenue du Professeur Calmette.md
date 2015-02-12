@@ -11,4 +11,4 @@ I've found that accommodation on Isep internal website to help student to get af
 
 Here is map of the surrounding with path from this room to Isep. It lasts 20 minutes by walk. You can see you're quite close to underground station (it's blue circled M).
 
-[path to Isep](Path from 2 avenue du Professeur Calmette to Isep.png)
+![path to Isep](Path from 2 avenue du Professeur Calmette to Isep.png)
