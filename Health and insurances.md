@@ -1,5 +1,4 @@
-Health and insurances
-#####################
+# Health and insurances
 
 * It's strongly advised by any country that you ought have a repatriation insurance. I don't know how much it costs, it's Taiwanese business ;-)
 * In France, I believe you can get healed for free because of welfare state. I can ask further if you want.

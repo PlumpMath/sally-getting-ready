@@ -1,5 +1,4 @@
-Cost of life
-############
+# Cost of life
 
 You can tune finely you budget with this comparator:
 

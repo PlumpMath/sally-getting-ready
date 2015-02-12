@@ -1,5 +1,4 @@
-sally-getting-ready
-###################
+# sally-getting-ready
 
 ## About that repository
 

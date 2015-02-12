@@ -1,5 +1,4 @@
-Scholarships
-############
+# Scholarships
 
 There are a lot of scholarship, you just have to find how to get the most from them.
 

@@ -1,5 +1,4 @@
-Food
-####
+# Food
 
 * Weekly food: I usually spend around €40 for food weekly when I go to the supermarket.
 * Daily food: in addition to the amount I spend weekly, I usually buy some sandwich for lunch when I have no time to cook it. You can find an average student-targeted menu (sandwich+drink) for six euros and a half.

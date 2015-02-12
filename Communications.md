@@ -1,5 +1,4 @@
-Communications
-##############
+# Communications
 
 * For that topic, you have SIM card from Parnasse. Good for you at least it's free \o/
 * It costs around €1 to send a letter abroad and €8 for a little book.
